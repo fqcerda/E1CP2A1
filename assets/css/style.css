@@ -1,0 +1,68 @@
+ body {
+ 	width:100%;
+ 	margin:0px;
+ }
+
+h1 {
+	font-family: 'El Rio Lobo';
+	color:#e5893d;
+	text-align: center;
+	margin-top: 
+} 
+
+p {
+	color:white;
+	text-align: center;
+
+}
+
+.titulo2 {
+	text-align: right;
+	width:20%;
+	margin-left:75%;
+}
+
+.texto_veneno {
+	text-align: right;
+	width:20%;
+	margin-left:75%;
+}
+
+.header {
+	width:100%;
+	height:130px;
+	background-color:#a1243a;
+	padding-top:5px;}
+
+.foto {
+	background-color:#158abe;
+	text-align: center;
+	padding: 20px 0px;
+
+}
+
+
+.foto2 {
+	background-image: url("../images/cuzco2.jpg");
+	background-size: cover;
+	height:500px;
+	padding: 20px 0px ;
+}
+
+.precios{
+	font-family: 'El Rio Lobo';
+	font-size: 40px;
+	text-align:center;
+}
+
+.precios li {
+	list-style: none;
+}
+#titulo3{
+	color:black;}
+
+
+
+
+
+
